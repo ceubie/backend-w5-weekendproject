@@ -1,0 +1,7 @@
+I was able to migrate my text file databases
+from last weekends project into MySQL by making
+some functions that leveraged for-loops. It took
+some extra time, but I was able to figure it out and 
+it added some cool tricks to my arsenal.
+I have included screenshots of those functions from last
+weekend's project in this read me folder.
